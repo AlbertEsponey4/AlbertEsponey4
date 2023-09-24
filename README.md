@@ -1,6 +1,6 @@
-# Hello👋
+# Hello!👋
 
-I'm Albert Esponey, a junior full stack developer.
+I'm Albert, a junior full-stack developer. Welcome to my profile!
 
 ## GitHub Stats and Most Used Languages
 <div align="center">
