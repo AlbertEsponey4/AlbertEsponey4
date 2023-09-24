@@ -1,6 +1,6 @@
-# Hello!👋
+# Hi!👋
 
-I'm Albert, a junior full-stack developer. Welcome to my profile!
+#### I'm Albert, a junior full-stack developer. Welcome to my profile!
 
 ## GitHub Stats and Most Used Languages
 <div align="center">
