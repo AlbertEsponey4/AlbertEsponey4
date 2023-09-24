@@ -30,7 +30,8 @@ I'm Albert Esponey, a junior full stack developer.
 </div>
 
 ## Keep in touch 👨‍💻
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-esponey/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-esponey/){:target="_blank"}
+
 
 <!--
 **AlbertEsponey4/AlbertEsponey4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
