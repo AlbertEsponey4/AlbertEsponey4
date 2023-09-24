@@ -1,5 +1,7 @@
 # Hello👋
 
+I'm Albert Esponey, a junior full stack developer.
+
 ## GitHub Stats and Most Used Languages
 <div align="center">
   <picture>
